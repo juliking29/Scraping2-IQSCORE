@@ -1,0 +1,14 @@
+Título,Texto,Tipo,Equipo,Tipo Predicción,Detalle Predicción,Cuota
+El Deportes Tolima ha marcado menos de 2.5 goles:,El Deportes Tolima ha marcado menos de 2.5 goles en 13 de últimos 14 partidos en casa.,teams,Deportes Tolima,total_t1_under,2_5,1.32
+El Deportes Tolima ha marcado menos de 2.5 goles:,"El Deportes Tolima ha marcado menos de 2.5 goles en 12 de últimos 13 partidos en casa (Primera A, Clausura).",teams,Deportes Tolima,total_t1_under,2_5,1.32
+El Deportes Tolima ha marcado menos de 2.5 goles:,"El Deportes Tolima ha marcado menos de 2.5 goles en sus últimos 5 partidos seguidos (Primera A, Clausura).",teams,Deportes Tolima,total_t1_under,2_5,1.32
+El Unión Magdalena Santa Marta ha recibido en la 2do mitad:,"El Unión Magdalena Santa Marta ha recibido en la 2do mitad en sus últimos 12 partidos seguidos (Primera A, Clausura).",teams,Unión Magdalena Santa Marta,total_t1_over_half2,0.5,1.52
+El Unión Magdalena Santa Marta ha recibido en la 2do mitad:,"El Unión Magdalena Santa Marta ha recibido en la 2do mitad en sus últimos 7 partidos de visitante seguidos (Primera A, Clausura).",teams,Unión Magdalena Santa Marta,total_t1_over_half2,0.5,1.52
+El Unión Magdalena Santa Marta ha marcado y recibido en la 2do mitad:,"El Unión Magdalena Santa Marta ha marcado y recibido en la 2do mitad en sus últimos 4 partidos seguidos (Primera A, Clausura).",teams,Unión Magdalena Santa Marta,total_over_half2,1.5,2.45
+El Unión Magdalena Santa Marta gana con un hándicap de +1.5:,El Unión Magdalena Santa Marta gana con un hándicap de +1.5 en 16 de últimos 17 partidos de visitante.,teams,Unión Magdalena Santa Marta,handicap2,1_5,1.64
+El Unión Magdalena Santa Marta gana con un hándicap de +1.5:,"El Unión Magdalena Santa Marta gana con un hándicap de +1.5 en sus últimos 11 partidos seguidos (Primera A, Clausura).",teams,Unión Magdalena Santa Marta,handicap2,1_5,1.64
+El Unión Magdalena Santa Marta gana con un hándicap de +1.5:,"El Unión Magdalena Santa Marta gana con un hándicap de +1.5 en sus últimos 7 partidos de visitante seguidos (Primera A, Clausura).",teams,Unión Magdalena Santa Marta,handicap2,1_5,1.64
+Menos de 8.5 saques de esquina:,Menos de 8.5 saques de esquina en últimos 9 partidos del Deportes Tolima en casa.,teams,Deportes Tolima,corners_total_under,8_5,1.72
+Menos de 8.5 saques de esquina:,"Menos de 8.5 saques de esquina en últimos 8 partidos del Deportes Tolima en casa (Primera A, Clausura).",teams,Deportes Tolima,corners_total_under,8_5,1.72
+El Deportes Tolima ha realizado menos de 5.5 saques de esquina:,"El Deportes Tolima ha realizado menos de 5.5 saques de esquina en 9 de últimos 10 partidos (Primera A, Clausura).",teams,Deportes Tolima,corners_total_t1_under,5_5,1.9
+El Deportes Tolima ha realizado menos de 5.5 saques de esquina:,"El Deportes Tolima ha realizado menos de 5.5 saques de esquina en sus últimos 8 partidos en casa seguidos (Primera A, Clausura).",teams,Deportes Tolima,corners_total_t1_under,5_5,1.9
