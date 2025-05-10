@@ -4,8 +4,8 @@ import contextlib
 import io
 
 # Importar funciones de scraping
-from scraptoP import procesar_y_guardar_todas_ligas
-from scriptlab1 import procesar_y_guardar_champions
+from otro.scraptoP import procesar_y_guardar_todas_ligas
+from otro.scriptlab1 import procesar_y_guardar_champions
 
 # Ejecuta el scraping y muestra solo el contenido de los CSV
 
